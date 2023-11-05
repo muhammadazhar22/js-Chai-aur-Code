@@ -38,3 +38,14 @@ const myFunction = function(){
 }
 
 console.log(typeof id)
+
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive), Heap (NOn-Primitive)
+
+let myYoutubename = "hiteshchoudarydotcom"
+
+let anothername = myYoutubename
+
